@@ -1,4 +1,3 @@
-```jsp
 <%@ page import="java.util.List" %>
 <%@ page import="com.codegnan.app.javawebapp11082026.entity.User" %>
 
@@ -79,4 +78,3 @@
 
 </body>
 </html>
-```
